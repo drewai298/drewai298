@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm drewai298
 
-<!--
-**drewai298/drewai298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps engineer based in Zurich. I spend most of my day automating cloud deployments, cleaning up Terraform state drift, and figuring out why containers refuse to talk to each other.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Building reliable CI/CD pipelines with GitHub Actions
+- Taming Kubernetes clusters and writing small CLI tooling in Bash
+- Setting up GitOps workflows (mostly ArgoCD)
+- Currently exploring eBPF for networking observability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily toolbox
+- **OS / Scripting:** Linux (Debian/Ubuntu), Bash, Python
+- **Containers & Orchestration:** Docker, Kubernetes, Helm
+- **IaC & CI/CD:** Terraform, GitHub Actions
+- **Monitoring:** Prometheus, Grafana
+
+#### Contact
+Feel free to open an issue on any of my repos or reach out on [LinkedIn](https://linkedin.com) if you want to swap homelab setups or talk infra architecture.
